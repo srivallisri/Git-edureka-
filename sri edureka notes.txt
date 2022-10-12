@@ -1,0 +1,22 @@
+cd d = go to d drive 
+git --version = see the version of the git
+
+frist creat a folder in the d directory to add any repositories 
+
+mkdir folder1= creating the folder1 in d drive 
+cd folder = go to folder1
+
+mkdir repo1 =creating repository repo1 
+
+now creat a local repository by command 
+git init = creeating the empty git repository in repo1 
+
+now creat a file in the repository 
+
+echo "rec1" >> file1.txt
+
+now add the file from local workspace into your staging area 
+
+git add >>file.txt
+
+now add
